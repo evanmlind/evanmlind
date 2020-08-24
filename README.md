@@ -2,7 +2,7 @@
 
 Thanks for stopping by! 
 
-My name is Evan (he/him), and I'm a department manager at a high-volume law firm specializing in administrative law. I have taken up learning various aspects of programming in an effort to improve our firm's performance in case selection, litigation strategies, and financial forecasting. 
+My name is Evan (he/him), and I'm a department manager at a high-volume law firm specializing in administrative law. I have taken up programming in an effort to improve our firm's performance in case selection, litigation strategies, and financial forecasting. 
 
 I'm currently learning Python, primarily directed towards data analysis and data science elements.
 
